@@ -1,7 +1,7 @@
 import ru.netology.service.CashbackHacker;
-import org.testng.annotations.Test;
+import org.junit.Test;
 
-import static org.testng.AssertJUnit.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 
 
